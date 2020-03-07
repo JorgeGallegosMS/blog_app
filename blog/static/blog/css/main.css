@@ -1,9 +1,9 @@
-.card {
-    margin-top: 5.5rem;
+body {
+    font-family: 'Open Sans';
 }
 
-.card .card-header{
-    font-family: 'Open Sans';
+.card {
+    margin-top: 5.5rem;
 }
 
 header.masthead .site-heading {
