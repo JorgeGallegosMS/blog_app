@@ -1,0 +1,16 @@
+.card {
+    margin-top: 5.5rem;
+}
+
+header.masthead .site-heading {
+    color: white;
+}
+
+header.masthead .overlay {
+    background-color: black;
+    opacity: .7;
+}
+
+.card .card-header{
+    font-family: 'Open Sans';
+}
