@@ -13,6 +13,6 @@ def register(request):
             login(request, user)
             return redirect('blog-index')
     else:
-        form = RegisterForm(request.POST)
+        form = RegisterForm()
 
     return render(request, 'users/register.html', {'form': form })
